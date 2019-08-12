@@ -1,0 +1,252 @@
+# depslib dependency file v1.0
+1255558692 source:c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"BubbleSort.h"
+	"MergeSort.h"
+	"QuickSort.h"
+	"HeapSort.h"
+	"Buscas.h"
+	"Randomico.h"
+
+1255557735 c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\bubblesort.h
+
+1255551479 c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\mergesort.h
+
+1255557413 c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\quicksort.h
+
+1255557468 c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\heapsort.h
+
+1255551478 c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\buscas.h
+
+1255551479 c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\randomico.h
+
+1255557399 c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\bench.h
+
+1255557735 source:c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\bubblesort.cpp
+	"BubbleSort.h"
+	"Troca.h"
+
+1255557735 source:c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\buscas.cpp
+	"Buscas.h"
+
+1255557485 source:c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\heapsort.cpp
+	"HeapSort.h"
+	"Troca.h"
+
+1255557468 source:c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\quicksort.cpp
+	"QuickSort.h"
+	"Troca.h"
+
+1255551568 source:c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\mergesort.cpp
+	<windows.h>
+	"MergeSort.h"
+
+1255551712 source:c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\randomico.cpp
+	<windows.h>
+	"time.h"
+	"Randomico.h"
+
+1255557560 c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\troca.h
+
+1255557560 source:c:\users\administrator\desktop\si 2°\estrutura de dados1[2°semestre]\trabalho1-ed1\ordena\troca.cpp
+	"Troca.h"
+
+1255641006 source:g:\ordena\mergesort.cpp
+	<windows.h>
+	"MergeSort.h"
+
+1255639854 g:\ordena\mergesort.h
+
+1255551714 source:g:\ordena\randomico.cpp
+	<windows.h>
+	"time.h"
+	"Randomico.h"
+
+1255551480 g:\ordena\randomico.h
+
+1255557562 source:g:\ordena\troca.cpp
+	"Troca.h"
+
+1255557562 g:\ordena\troca.h
+
+1255641004 source:g:\ordena\bubblesort.cpp
+	"BubbleSort.h"
+	"Troca.h"
+
+1255641006 g:\ordena\bubblesort.h
+
+1255634800 source:g:\ordena\buscas.cpp
+	"Buscas.h"
+
+1255633924 g:\ordena\buscas.h
+
+1255641006 source:g:\ordena\heapsort.cpp
+	"HeapSort.h"
+	"Troca.h"
+
+1255637226 g:\ordena\heapsort.h
+
+1255641706 source:g:\ordena\quicksort.cpp
+	"QuickSort.h"
+	"Troca.h"
+
+1255641006 g:\ordena\quicksort.h
+
+1255644184 source:g:\ordena\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"BubbleSort.h"
+	"MergeSort.h"
+	"QuickSort.h"
+	"HeapSort.h"
+	"Buscas.h"
+	"Randomico.h"
+
+1255638400 source:k:\ordena\buscas.cpp
+	"Buscas.h"
+
+1255637524 k:\ordena\buscas.h
+
+1255644606 source:k:\ordena\heapsort.cpp
+	"HeapSort.h"
+	"Troca.h"
+
+1255640826 k:\ordena\heapsort.h
+
+1255561162 k:\ordena\troca.h
+
+1255644606 source:k:\ordena\mergesort.cpp
+	<windows.h>
+	"MergeSort.h"
+
+1255643454 k:\ordena\mergesort.h
+
+1255645306 source:k:\ordena\quicksort.cpp
+	"QuickSort.h"
+	"Troca.h"
+
+1255644606 k:\ordena\quicksort.h
+
+1255555314 source:k:\ordena\randomico.cpp
+	<windows.h>
+	"time.h"
+	"Randomico.h"
+
+1255555080 k:\ordena\randomico.h
+
+1255561162 source:k:\ordena\troca.cpp
+	"Troca.h"
+
+1255644604 source:k:\ordena\bubblesort.cpp
+	"BubbleSort.h"
+	"Troca.h"
+
+1255644606 k:\ordena\bubblesort.h
+
+1255650550 source:k:\ordena\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"BubbleSort.h"
+	"MergeSort.h"
+	"QuickSort.h"
+	"HeapSort.h"
+	"Buscas.h"
+	"Randomico.h"
+
+1255644604 source:e:\new folder\ordena-backup5\bubblesort.cpp
+	"BubbleSort.h"
+	"Troca.h"
+
+1255644606 e:\new folder\ordena-backup5\bubblesort.h
+
+1255561162 e:\new folder\ordena-backup5\troca.h
+
+1255638400 source:e:\new folder\ordena-backup5\buscas.cpp
+	"Buscas.h"
+
+1255637524 e:\new folder\ordena-backup5\buscas.h
+
+1255644606 source:e:\new folder\ordena-backup5\heapsort.cpp
+	"HeapSort.h"
+	"Troca.h"
+
+1255640826 e:\new folder\ordena-backup5\heapsort.h
+
+1255650550 source:e:\new folder\ordena-backup5\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"BubbleSort.h"
+	"MergeSort.h"
+	"QuickSort.h"
+	"HeapSort.h"
+	"Buscas.h"
+	"Randomico.h"
+
+1255643454 e:\new folder\ordena-backup5\mergesort.h
+
+1255644606 e:\new folder\ordena-backup5\quicksort.h
+
+1255555080 e:\new folder\ordena-backup5\randomico.h
+
+1255644606 source:e:\new folder\ordena-backup5\mergesort.cpp
+	<windows.h>
+	"MergeSort.h"
+
+1255645306 source:e:\new folder\ordena-backup5\quicksort.cpp
+	"QuickSort.h"
+	"Troca.h"
+
+1255555314 source:e:\new folder\ordena-backup5\randomico.cpp
+	<windows.h>
+	"time.h"
+	"Randomico.h"
+
+1255561162 source:e:\new folder\ordena-backup5\troca.cpp
+	"Troca.h"
+
+1255644604 source:f:\new folder\root\ordena-backup5\bubblesort.cpp
+	"BubbleSort.h"
+	"Troca.h"
+
+1255644606 f:\new folder\root\ordena-backup5\bubblesort.h
+
+1255561162 f:\new folder\root\ordena-backup5\troca.h
+
+1255638400 source:f:\new folder\root\ordena-backup5\buscas.cpp
+	"Buscas.h"
+
+1255637524 f:\new folder\root\ordena-backup5\buscas.h
+
+1255644606 source:f:\new folder\root\ordena-backup5\heapsort.cpp
+	"HeapSort.h"
+	"Troca.h"
+
+1255640826 f:\new folder\root\ordena-backup5\heapsort.h
+
+1255644606 source:f:\new folder\root\ordena-backup5\mergesort.cpp
+	<windows.h>
+	"MergeSort.h"
+
+1255643454 f:\new folder\root\ordena-backup5\mergesort.h
+
+1255645306 source:f:\new folder\root\ordena-backup5\quicksort.cpp
+	"QuickSort.h"
+	"Troca.h"
+
+1255644606 f:\new folder\root\ordena-backup5\quicksort.h
+
+1255555314 source:f:\new folder\root\ordena-backup5\randomico.cpp
+	<windows.h>
+	"time.h"
+	"Randomico.h"
+
+1255555080 f:\new folder\root\ordena-backup5\randomico.h
+
+1255561162 source:f:\new folder\root\ordena-backup5\troca.cpp
+	"Troca.h"
+

@@ -1,0 +1,10 @@
+////////////////////////////////////////////////////////////////////////
+//  Ordenaçao pelo Método MergeSort
+//
+////////////////////////////////////////////////////////////////////////
+
+void Merge(int vetor_base[], int tamanho);
+
+void Merge_Sort(int vetor_base[], int tamanho);
+
+void MergeSort(int vetor_base[], int tamanho, int comparacoesMp[]);
